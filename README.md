@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tumi-ami-o-bhor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tumi, Ami O Bhor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tumi-ami-o-bhor/) |
+| **Get License** | [Obtain a Music License for Tumi, Ami O Bhor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tumi-ami-o-bhor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঝুম রাতের কোলে শুধু তোমার প্রতীক্ষা
+> অচিন দেশে হারিয়ে যাওয়ার এই তো প্রতিজ্ঞা
+> চোখের পাতায় স্বপ্নগুলো আলো হয়ে ভাসে
+> আঁধারেও এই মাতাল হাওয়া মনের খুব কাছে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
