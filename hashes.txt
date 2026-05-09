@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tumi, Ami O Bhor
+
+This log tracks the cryptographic history and versioning for the song **Tumi, Ami O Bhor** (tumi-ami-o-bhor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T03:00:33.240645 | `v1` | `a752aedb8b9e1428943aaa47b4e1ed9e3f5fdc83e95f265404626e88cd43df24` | `afc7aac5f20b9d6d8c43231053061a8f6785df24308bfbda6a5a58ba49b123af` | `2026-05-10_tumi-ami-o-bhor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

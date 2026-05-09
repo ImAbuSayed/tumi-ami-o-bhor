@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tumi-ami-o-bhor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tumi, Ami O Bhor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tumi-ami-o-bhor/) |
+| **Get License** | [Commercial Licensing for Tumi, Ami O Bhor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tumi-ami-o-bhor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a752aedb8b9e1428943aaa47b4e1ed9e3f5fdc83e95f265404626e88cd43df24` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
